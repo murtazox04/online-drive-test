@@ -84,7 +84,7 @@ online-drive-test/
 ### 1. Clone the Repository
 
 ```bash
-git https://github.com/murtazox04/online-drive-test.git
+git clone https://github.com/murtazox04/online-drive-test.git
 cd online-drive-test
 ```
 
