@@ -1,3 +1,6 @@
+# Generated OpenAPI schema
+schema.yml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -60,6 +63,9 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+media/
+staticfiles/
+static_root/
 
 # Flask stuff:
 instance/
